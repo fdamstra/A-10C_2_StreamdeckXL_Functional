@@ -9,6 +9,12 @@ A few of the pages on this profile are not my own. They are taken from freeware 
 * The marvelous UFC interface: Based off [this profile](https://www.digitalcombatsimulator.com/en/files/3321137/) which is some really marvelous work.
 * The ARC-210 Radio Interface: This is straight up copied out of [this profile](https://www.digitalcombatsimulator.com/en/files/3330112/), which is great work, but I found it overwhelming and in need of better organization. I hope my profile does better.
 
+## Issues
+
+If you have any issues, please open a ticket on the [issues page on github](https://github.com/fdamstra/A-10C_2_StreamdeckXL_Functional/issues).
+
+But also, feel free to contribute fixes/improvements directly via a pull request.
+
 ## Idea
 
 The basic idea is that the top row is consistent, and lets you hop directly to the various functional pages. The top left button will always bring you to the main screen (unless you're there, in which case it will exit the profile). The next 5 buttons are for the UFC, Navigation Functions (NAV), Communications functions (COMM), lights, and cold and dark startup.
@@ -32,33 +38,49 @@ After following those:
 
 The main screen consists of autopilot functions, main navigation functions, and weapon functions.
 
+### UFC Screen
+
 ![UFC Screen](Screenshots/UFC.png)
 
 UFC screen should be self-explanatory.
+
+### NAV Screen
 
 ![NAV Screen](Screenshots/NAV.png)
 
 The navigation screen has controls for TACAN and ILS tuning.
 
+### COMM Screen
+
 ![COMM Screen](Screenshots/COMM.png)
 
 The comm screen provides quick access to presets for all 3 radios, as well as the basic configuration functions for those radios. On the left hand side, there are buttons to more extensive controls for each of the 3 radios.
+
+### ARC-210 Screen
 
 ![COMM/ARC-210 Screen](Screenshots/COMM_ARC-210.png)
 
 The ARC-210 radio controls. Unlike every other page, this does not have links to each of the functional areas. The top left button will bring you back to the COMM page.
 
+### UHF Radio Screen
+
 ![COMM/UHF Screen](Screenshots/COMM_UHF.png)
 
 UHF radio tuning, volume, and preset controls.
+
+### VHF Radio Screen
 
 ![COMM/VHF FM Screen](Screenshots/COMM_VHF.png)
 
 VHF FM radio tuning, volume, and preset controls.
 
+### Lights Screen
+
 ![LIGHTS](Screenshots/LIGHTS.png)
 
 Provides controls over interior and exterior lights.
+
+### Startup Screen
 
 ![STARTUP](Screenshots/STARTUP.png)
 
